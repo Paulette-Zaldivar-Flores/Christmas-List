@@ -31,14 +31,7 @@
 
   
 
-## Project Status
-<ul>
-<li>Project is: Completed</li></ul>
 
-    
-   
-## Contact
-Created by [Paulette](https://paulette-zaldivar-flores.netlify.app/) - feel free to contact me!
 
 ## Guidelines
 
@@ -222,6 +215,13 @@ end
 - Find the best moment to load the gifts.
 - When do you need to save the gifts?
 
+## Project Status
+<ul>
+<li>Project is: Completed</li></ul>
 
+    
+   
+## Contact
+Created by [Paulette](https://paulette-zaldivar-flores.netlify.app/) - feel free to contact me!
 
 
